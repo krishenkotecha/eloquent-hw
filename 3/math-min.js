@@ -1,6 +1,8 @@
 function min(a,b) {
 	if (a<b) 
       return a;
-	else
+	else if
       return b;
+  	else 
+  	  return "Your numbers are equal."
 }
