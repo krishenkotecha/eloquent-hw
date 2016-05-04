@@ -7,3 +7,5 @@ function countBs(string) {
 	}
 	return B_count
 }
+
+console.log("Hi!")
